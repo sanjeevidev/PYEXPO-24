@@ -5,16 +5,16 @@
 # Team Peridot
 |  Team Name | Student Name  | PS No.  | PS Title  |  Description |
 |---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  Cybernova  |   |  67 |   |   |
+|  Team Akatsuki |   |  105 |   |   |
+|  Pythonistas |   |  49 |   |   |
+|  Tech Turtles |   |  55 |   |   |
+|  Syntax Hunters |   |  110 |   |   |
+|  Tech King |   |   |   |   |
+|  Code Conquerors |   |  135 |   |   |
+|  Code Dynamos |   |  159 |   |   |
+|  Boolean Autocrats |   |   |   |   |
+|  CLT SLT ELITE |   |  51 |   |   |
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pyexpo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
